@@ -20,7 +20,7 @@ ExtenderPass is a Python tool that transforms simple passwords into fixed-length
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ExtenderPass.git
+git clone https://github.com/kuznetsov0x/ExtenderPass.git
 cd ExtenderPass
 ```
 
